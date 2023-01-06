@@ -1,0 +1,62 @@
+/* TabletView */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: #e5ba73;
+}
+
+#navb a {
+  color: #faf8f1;
+}
+
+#navb.bg-col {
+  background-color: #c58940 !important;
+}
+.pd-0 {
+  padding: 0px !important;
+}
+
+.fs-2 {
+  font-size: 2rem;
+}
+
+.fs-15 {
+  font-size: 1.5rem;
+}
+
+.fs-12 {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+#title {
+  margin-top: 10px;
+  color: #c58940;
+}
+
+#item1 {
+  margin: 50px 0px;
+  background-color: #c58940;
+  color: #faf8f1;
+}
+
+#item2 {
+  margin: 50px 0px;
+  background-color: #c58940;
+  color: #faf8f1;
+}
+
+#item3 {
+  margin: 50px 0px;
+  background-color: #c58940;
+  color: #faf8f1;
+}
+
+@media (min-width: 576px) {
+  #navbarSupportedContent.dis-sm-none {
+    display: none !important;
+  }
+}
